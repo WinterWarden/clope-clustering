@@ -1,2 +1,2 @@
 # clope-clustering
-Implementation of clope clustering algorigthm with nodeJS and TypeScript
+Implementation of clope clustering algorithm with NodeJS and TypeScript
