@@ -1,7 +1,6 @@
 {
-  "name": "application-name",
+  "name": "clope-clustering",
   "version": "0.0.1",
   "dependencies": {
-    "lodash": "latest"
   }
 }
